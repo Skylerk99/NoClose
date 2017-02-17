@@ -1,0 +1,9 @@
+Package: com.skylerk99.noclose
+Name: NoClose
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Prompts before closing now playing application.
+Maintainer: Skyler Kansala
+Author: Skyler Kansala
+Section: Tweaks
